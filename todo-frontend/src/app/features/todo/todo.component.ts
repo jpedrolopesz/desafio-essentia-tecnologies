@@ -62,6 +62,7 @@ export class TodoComponent implements OnInit {
   }
 
   delete(id: number) {
+    console.log('Deletando id:', id);
     this.todoService.delete(id).subscribe(() => this.load());
   }
 }

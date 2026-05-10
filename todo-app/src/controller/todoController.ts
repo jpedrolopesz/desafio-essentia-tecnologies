@@ -36,7 +36,7 @@ export async function update(req: Request, res: Response) {
   res.json({ success: true, data: todo });
 }
 
-export async function remove(res: Response, req: Request) {
+export async function remove(req: Request, res: Response) {
   const deleted = await Todo.remove(Number(req.params.id));
 
   if (!deleted)

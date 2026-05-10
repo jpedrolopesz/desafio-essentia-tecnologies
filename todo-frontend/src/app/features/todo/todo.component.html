@@ -19,7 +19,6 @@
   @for (todo of todos; track todo.id) {
     <z-card>
       @if (editingTodo?.id === todo.id) {
-        <!-- Formulário de edição -->
         <div class="space-y-3">
           <input zardInput [(ngModel)]="editTitle" placeholder="Titulo" class="w-full" />
           <input zardInput [(ngModel)]="editDescription" placeholder="Descrição" class="w-full" />
@@ -31,7 +30,6 @@
           </div>
         </div>
       } @else {
-        <!-- Visualização normal -->
         <div class="flex items-start gap-3">
           <input
             type="checkbox"
