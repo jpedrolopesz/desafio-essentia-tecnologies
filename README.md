@@ -10,9 +10,12 @@ Todo o desenvolvimento foi realizado ao vivo, do zero até a entrega final.
 
 [![Assista no YouTube](https://img.youtube.com/vi/ypbtbYVKiF4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ypbtbYVKiF4)
 
-Demo.
+## 🎥 Demostrançao — 1m 12s
 
-[<video src="https://github.com/jpedrolopesz/desafio-essentia-tecnologies/raw/main/assets/demo.mp4" controls width="100%"></video>](https://github.com/user-attachments/assets/f542751e-8457-45c9-ae45-b97b60c91c62
+Entrega final.
+[![Assista no YouTube](https://img.youtube.com/vi/pWGLznGr15w/maxresdefault.jpg)](https://www.youtube.com/watch?v=pWGLznGr15w)
+
+
 )
 ---
 
