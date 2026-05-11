@@ -10,7 +10,7 @@ Todo o desenvolvimento foi realizado ao vivo, do zero até a entrega final.
 
 [![Assista no YouTube](https://img.youtube.com/vi/ypbtbYVKiF4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ypbtbYVKiF4)
 
-## 🎥 Demostrançao — 1m 12s ( Clique na imagem para abrir o vídeo )
+## 🎥 Demonstração — 1m 12s ( Clique na imagem para abrir o vídeo )
 
 Entrega final.
 
