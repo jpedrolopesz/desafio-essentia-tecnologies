@@ -4,19 +4,18 @@ Aplicação de gerenciamento de tarefas desenvolvida como solução para o **Des
 
 ---
 
-## 🎥 Live Coding — 2h 52m 57s
+## 🎥 Live Coding — 2h 52m 57s ( Clique na imagem para abrir o vídeo )
 
 Todo o desenvolvimento foi realizado ao vivo, do zero até a entrega final.
 
 [![Assista no YouTube](https://img.youtube.com/vi/ypbtbYVKiF4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ypbtbYVKiF4)
 
-## 🎥 Demostrançao — 1m 12s
+## 🎥 Demostrançao — 1m 12s ( Clique na imagem para abrir o vídeo )
 
 Entrega final.
+
 [![Assista no YouTube](https://img.youtube.com/vi/pWGLznGr15w/maxresdefault.jpg)](https://www.youtube.com/watch?v=pWGLznGr15w)
 
-
-)
 ---
 
 ## 🛠️ Ferramentas utilizadas no desenvolvimento
@@ -122,4 +121,4 @@ Base URL: `http://localhost:3001/api/todos`
 
 ---
 
-> Desenvolvido por **João Pedro** para o desafio Essentia Group 🚀
+> Desenvolvido por **João Pedro Lopes Zamonelo** para o desafio Essentia Group 🚀
