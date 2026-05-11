@@ -10,7 +10,10 @@ Todo o desenvolvimento foi realizado ao vivo, do zero até a entrega final.
 
 [![Assista no YouTube](https://img.youtube.com/vi/ypbtbYVKiF4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ypbtbYVKiF4)
 
-<video src="https://github.com/jpedrolopesz/desafio-essentia-tecnologies/raw/main/assets/demo.mp4" controls width="100%"></video>
+Demo.
+
+[<video src="https://github.com/jpedrolopesz/desafio-essentia-tecnologies/raw/main/assets/demo.mp4" controls width="100%"></video>](https://github.com/user-attachments/assets/f542751e-8457-45c9-ae45-b97b60c91c62
+)
 ---
 
 ## 🛠️ Ferramentas utilizadas no desenvolvimento
@@ -42,7 +45,7 @@ Além das tecnologias principais, as seguintes ferramentas foram usadas como apo
 ## Estrutura do Projeto
 
 ```
-.
+techX.
 ├── todo-app/          # Backend (Node.js + Express)
 └── todo-frontend/     # Frontend (Angular)
 ```
